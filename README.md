@@ -60,7 +60,7 @@ mindmap/
 ### 1. Clone repo
 
 ```
-git clone https://github.com/your-username/mindmap.git
+git clone https://github.com/nguyenminhdat6401/dmindmap-mathematicalformulas-demo.git
 ```
 
 ### 2. Mở file
