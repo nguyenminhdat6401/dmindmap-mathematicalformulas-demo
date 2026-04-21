@@ -23,7 +23,7 @@ Cho phép tạo, chỉnh sửa và quản lý các node trực quan bằng SVG.
 <p align="center">
   <img src="./assets/demo.jpg" width="800"/>
 </p>
----
+
 
 ## ✨ Tính năng
 
