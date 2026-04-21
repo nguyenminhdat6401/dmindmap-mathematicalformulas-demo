@@ -20,6 +20,9 @@ Cho phép tạo, chỉnh sửa và quản lý các node trực quan bằng SVG.
 
 👉 https://github.com/nguyenminhdat6401/dmindmap-mathematicalformulas-demo
 
+<p align="center">
+  <img src="./assets/demo.gif" width="800"/>
+</p>
 ---
 
 ## ✨ Tính năng
